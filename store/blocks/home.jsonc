@@ -7,10 +7,10 @@
   "flex-layout.row": {
     "children":[
       "info-card#rethink",
-      "flex-layout.col"
+      "flex-layout.col#test"
     ]
   },
-  "flex-layout.col": {
+  "flex-layout.col#test": {
     "children": [
       "image#eletronics",
       "image#major-appliance"
