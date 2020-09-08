@@ -5,7 +5,8 @@
       "info-card#button-right",
       "info-card#button-left",
       "image",
-      "flex-layout.row"
+      "flex-layout.row",
+      "flex-layout.col"
     ]
   },
 
@@ -16,12 +17,6 @@
     ]
   },
 
-  "flex-layout.col": {
-    "children": [
-      "image#eletronics",
-      "image#major-appliance"
-    ]
-  },
 
   "image#eletronics": {
     "props": {
@@ -36,6 +31,15 @@
       "maxWidth": "100%"
     }
   },
+
+  "flex-layout.col": {
+    "children": [
+      "image#eletronics",
+      "image#major-appliance"
+    ]
+  },
+
+  
 
   "info-card#rethink": {
     "props": {
