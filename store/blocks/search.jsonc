@@ -47,7 +47,7 @@
   },
 
   "search-content": {
-    "block": [
+    "blocks": [
       "gallery", 
       "not-found"
     ]
