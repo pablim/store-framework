@@ -20,16 +20,16 @@
   "rich-text#desktop": {
     "props": {
       "text": "# Your Coffee, Your Way \n ### New Coffee Makers Collection",
-      "textPosition": "center",
-      "textAlignment": "center"
+      "textPosition": "CENTER",
+      "textAlignment": "CENTER"
     }
   },
 
   "rich-text#mobile": {
     "props": {
       "text": "### Your Coffee, Your Way \n #### New Coffee Makers Collection",
-      "textPosition": "center",
-      "textAligment": "center"
+      "textPosition": "CENTER",
+      "textAligment": "CENTER"
     }
   },
 
