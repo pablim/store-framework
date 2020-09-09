@@ -1,7 +1,8 @@
 {
   "store.home": { 
     "blocks": [
-      "flex-layout.row"
+      "flex-layout.row",
+      "shelf"
     ]
   },
   "flex-layout.row": {
@@ -38,5 +39,18 @@
       "callToActionText": "Discover",
       "textPosition": "center"
     }
+  },
+  
+  "product-sumary.shelf": {
+      "children": [
+          "product-sumary-image",
+          "product-sumary-add-to-list-button",
+          "product-sumary-name",
+          "product-rating-inline",
+          "product-sumary-space",
+          "product-sumary-price",
+          "product-identifier.summary",
+          "product-sumary-by-button"
+      ]
   }
 }
