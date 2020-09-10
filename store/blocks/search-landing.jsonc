@@ -20,7 +20,7 @@
                 "skusFilter": "FIRST_AVAILABLE",
                 "simulationBehavior": "skip",
                 "queryField": "Blue Top Retro Camera",
-                "mapField": "nome"
+                "mapField": "specificationFilter_100"
             }
         }
     }
