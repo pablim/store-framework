@@ -6,8 +6,10 @@
         ]
     }, 
     "image": {
-        "src": "https://appliancetheme.vteximg.com.br/arquivos/cozinha-about-us.png",
-        "minWidth": "100%"
+        "props": {
+            "src": "https://appliancetheme.vteximg.com.br/arquivos/cozinha-about-us.png",
+            "minWidth": "100%"
+        }
     },
     "search-result-layout.customQuery": {
         "props": {
