@@ -58,7 +58,7 @@
     },
     "tab-list.item#home2": {
         "props": {
-            "tabId": "eletronics",
+            "tabId": "electronics",
             "label": "Electronics"
         }
     },
@@ -81,19 +81,21 @@
             "rich-text#home2"
         ],
         "props": {
-            "tabId": "eletronics"
+            "tabId": "electronics"
         }
     },
     "rich-text#home1": {
         "props": {
             "text": "Área do conteúdo da tab-list.item com  tabId = majorAppliances",
-            "text-position": "CENTER"
+            "text-position": "CENTER",
+            "font": "t-heading-3"
         }
     },
     "rich-text#home2": {
         "props": {
             "text": "Área do conteúdo da tab-list.item com  tabId = electronics",
-            "text-position": "CENTER"
+            "text-position": "CENTER",
+            "font": "t-heading-3"
         }
     }
 }
