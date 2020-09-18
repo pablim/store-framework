@@ -20,6 +20,9 @@
                 "queryField": "Blue Top Retro Camera",
                 "mapField": "productName"
             }
-        }
+        },
+        "blocks": [
+            "search-result-layout.desktop#promotions"
+        ]
     }
 }
