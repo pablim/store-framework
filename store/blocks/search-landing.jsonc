@@ -22,7 +22,9 @@
             }
         },
         "blocks": [
-            "search-result-layout.desktop#promotions"
-        ]
+            "search-result-layout.desktop",
+            "search-result-layout.mobile"
+        ],
+        "title": "Teste"
     }
 }
