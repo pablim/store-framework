@@ -17,8 +17,8 @@
                 "orderByField": "OrderByReleaseDateDESC",
                 "hideUnavailebleItens": true,
                 "maxItemsPerPage": 8,
-                "queryField": "X-Burguer",
-                "mapField": "specificationFilter_89"
+                "queryField": "Blue Top Retro Camera",
+                "mapField": "name"                
             }
         }
     }
