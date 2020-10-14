@@ -1,37 +1,37 @@
 {
     "header": {
         "blocks": [
-        "header-layout.desktop",
-        "header-layout.mobile"
+            "header-layout.desktop",
+            "header-layout.mobile"
         ]
     },
     "header.full": {
         "blocks": [
-        "header-layout.desktop",
-        "header-layout.mobile"
+            "header-layout.desktop",
+            "header-layout.mobile"
         ]
     },
     
     "header-layout.desktop": {
         "children": [
-        "header-row#notification",
-        "header-row#main"
+            "header-row#notification",
+            "header-row#main"
         ]
     },
     
     "header-layout.mobile": {
         "children": [
-        "header-row#notification",
-        "header-row#main-mobile",
-        "header-row#search"
+            "header-row#notification",
+            "header-row#main-mobile",
+            "header-row#search"
         ]
     },
       
     "header-row#notification": {
         "children": [
-            "header-space",
+            "header-spacer",
             "rich-text#header",
-            "header-space"
+            "header-spacer"
         ]
     },
 
@@ -45,7 +45,7 @@
         ],
         "props": {
             "inverted": true,
-            "stick": true,
+            "sticky": true,
             "fullWidth": false
         }
     },
@@ -88,7 +88,7 @@
     "rich-text#header": {
         "props": {
             "text": "**Free Shipping on orders over $50**",
-            "text-position": "CENTER"
+            "textPosition": "CENTER"
         }
     }
 }
